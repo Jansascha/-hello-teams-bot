@@ -10,7 +10,7 @@ Ziel: Zugriff auf die Microsoft 365 E5 Sandbox mit Microsoft Teams, Exchange, Sh
 
 
 
-Autor: Oliver Nocke
+Autor: OliverNocke
 
 
 
